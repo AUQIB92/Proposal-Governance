@@ -6,8 +6,8 @@ import abi1 from "./contracts/Proposal.json";
 //require('dotenv').config();
 function App() {
 
-  const GovernorAddres = '0xAe6Fc753B059961014714800C7ABaF63A8C0062f'
-  const ProposalAddress = '0x885d4e5e3Ed2Fa43dAc6a85F784D8E988a06CB9B'
+  const GovernorAddres = '0xCA298885F44e663539DDe643715B88178FE9E1E7'
+  const ProposalAddress = '0x295Db6924B020b358668C0b85D367db1914C3654'
   const OwnerOfGovernor = '0xdb634749715fB7b5B9aD6dF27A2060FE3fF7bd3e'
 
   //let propID;
